@@ -57,4 +57,4 @@ The system takes user inputs and predicts the insurance premium category using a
 
 ---
 
-## ⚙️ Project Architecture
+
