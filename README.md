@@ -8,7 +8,7 @@ This project demonstrates **end-to-end ML deployment** using FastAPI and Streaml
 
 ## 🚀 Live Demo
  
-🔗 Frontend (Streamlit App): [Add Your Streamlit Link Here]  
+🔗 Frontend (Streamlit App): [Add Your Streamlit Link Here]    
 🔗 Backend API (Render): https://insurance-premium-prediction-wf6k.onrender.com  
 🔗 API Docs (Swagger): https://insurance-premium-prediction-wf6k.onrender.com/docs
 
